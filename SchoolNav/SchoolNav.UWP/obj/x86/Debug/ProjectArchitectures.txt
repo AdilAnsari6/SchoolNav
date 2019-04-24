@@ -1,1 +1,1 @@
-C:\Users\adila\source\repos\SchoolNav\SchoolNav\SchoolNav.UWP\SchoolNav.UWP.csproj;x86
+C:\Users\adila\Documents\Github\SchoolNav\SchoolNav\SchoolNav.UWP\SchoolNav.UWP.csproj;x86

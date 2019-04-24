@@ -11,8 +11,8 @@
 
   <ItemGroup>
     <PackageReference Include="RoyT.AStar" Version="2.1.0" />
-    <PackageReference Include="Xamarin.Essentials" Version="1.0.1" />
-    <PackageReference Include="Xamarin.Forms" Version="3.3.0.967583" />  
+    <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
+    <PackageReference Include="Xamarin.Forms" Version="3.6.0.344457" />  
   </ItemGroup>
 
   <ItemGroup>
